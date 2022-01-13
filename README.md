@@ -1,1 +1,1 @@
-# 3D-Iimage-Quality-Assessment
+# 3D-Image-Quality-Assessment
