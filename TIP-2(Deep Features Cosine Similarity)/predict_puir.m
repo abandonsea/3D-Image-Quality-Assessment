@@ -1,5 +1,5 @@
-inp1 = double((imread(['1.png'])));
-inp2 = double((imread(['141.png'])));
+inp1 = double((imread(['syn.png'])));
+inp2 = double((imread(['org.png'])));
 
 % IETR dataset parameters
 lam_1 = 5.4100;
